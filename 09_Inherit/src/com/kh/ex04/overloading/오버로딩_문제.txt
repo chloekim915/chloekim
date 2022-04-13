@@ -1,0 +1,20 @@
+아래 기준 메소드를 먼저 써놓고
+1번부터 7번까지의 메소드를 차례로 써나간다고 할 때
+오버로딩이 적용되는 것은 무엇일까?
+
+기준 public void method1(int i){}
+===================================================
+1	public void method1(String str){}
+
+2	public void method1(int i, String str){}
+
+3 	public void method1(int num){}
+
+4 	public String method1(int point){}
+
+5	public void method1(int i, int k){}
+
+6 	public void method1(int num, String string){}
+
+7	public void method1(String str, int i){}
+
