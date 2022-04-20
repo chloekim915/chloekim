@@ -1,0 +1,127 @@
+코로나바이러스감염증-19(COVID-19) 정보
+병원체	
+Severe Acute Respiratory Syndrome-Coronavirus-2(SARS-CoV-2)
+Coronaviridae family, Betacoronavirus genus Sarbecovirus subgenus에 속함
+전파 경로	
+주된 전파경로는 감염자의 호흡기 침방울(비말)에 의한 전파
+사람 간에 전파되며, 대부분의 감염은 감염자가 기침, 재채기, 말하기, 노래 등을할 때 발생한 호흡기 침방울(비말)을다른사람이 밀접접촉(주로 2m 이내)하여 발생
+현재까지 연구결과에 의하면, 비말 이외, 표면접촉*, 공기 등을 통해서도 전파가 가능하나, 공기전파는 의료기관의에어로졸 생성 시술**, 밀폐된공간에서 장시간 호흡기 비말을 만드는환경***등 특정 환경에서 제한적으로 전파되는 것으로 알려짐
+* 감염된 사람과의 직접 접촉(악수 등) 또는 매개체(오염된 물품이나 표면)를 만진 후, 손을 씻기 전 눈, 코, 입 등을 만짐으로 바이러스 전파
+
+** 에어로졸 생성 시술: 기관지 내시경 검사, 객담 유도, 기관삽관, 심폐소생술, 개방된 객담 흡입, 흡입기 등
+
+*** 환기가 부적절하게 이루어진 노래방, 커피숍, 주점, 실내 운동시설 등에서 감염자와 같이있거나 감염자가 떠난 즉시 그 밀폐공간을 방문한 경우
+
+잠복기	
+1~14일(평균 5~7일)
+진단 기준	
+환자 : 임상양상에 관계없이 진단을 위한 검사기준에 따라 코로나19 감염이 확인된 자
+진단을 위한 검사 기준
+코로나19 유전자(PCR) 검출
+바이러스 분리
+증상	
+주요증상 및 징후
+- 임상 증상은 무증상, 경증, 중등증, 중증까지 다양
+- 주요 증상으로는 발열(37.5℃ 이상), 기침, 호흡곤란, 오한, 근육통, 두통, 인후통, 후각·미각소실
+- 그 외에 피로, 식욕감소, 가래, 소화기증상(오심, 구토, 설사 등), 혼돈, 어지러움, 콧물이나 코막힘, 객혈, 흉통, 결막염, 피부 증상 등이 다양하게 나타남
+
+치료	
+특이치료제는 없으며 증상에 따른 해열제, 수액공급, 진해제 등 대증치료
+호흡 곤란 시 산소를 공급하고 필요한 경우에는 기계호흡이나 체외막 산소공급 등의 처치를 시행
+산소 치료가 필요한 환자에서 렘데시비르의 효과가 일부 확인되어 우리나라를 포함한 여러 나라에서 긴급 승인이 되었거나, 긴급 승인을 준비 중임특이적인 항바이러스제 없음
+치명률	
+전세계 치명률은 지역, 인구집단연령 구조, 감염 상태 및 기타 요인에 의해 0.1~25%로 다양함
+전세계 치명률은 0.00%~1.63% (중위값 0.27%)로 보정 후 0.00~1.54%(중위값 0.23%)(Bulletin of the World Health Organization. 2021)(https://www.who.int/bulletin/volumes/99/1/20-265892/en/)
+예방	
+식약처에서 승인된 코로나19 백신(향후 업데이트 예정)
+올바른 손씻기
+기침 예절 준수
+씻지 않은 손으로 눈, 코, 입 만지지 않기
+주위 환경을 자주 소독하고 환기하기
+코로나 바이러스 분류 및 특성
+개요
+코로나 바이러스(CoV)는 사람과 다양한 동물에 감염될 수 있는 바이러스로서 유전자 크기 27~32kb의 RNA 바이러스
+분류
+코로나 바이러스과에는 4개의 속(알파, 베타, 감마, 델타)이 있음
+알파 · 베타 : 사람과 동물에게 감염
+감마 · 델타 : 동물에게 감염
+형태
+형태는 코로나 바이러스의 명명과 같이 전자현미경 관찰시 구형
+외부 spike 단백질이 특징적인 크라운형태
+사람감염 코로나 바이러스
+사람감염 코로나 바이러스는 현재까지 6종류가 알려져 있음
+감기를 일으키는 유형(229E, OC43, NL63, HKU1)
+중증폐렴을 일으킬 수 있는 유형(SARS-CoV, MERS-CoV)
+코로나 바이러스 분류표
+속(genus)	사람-코로나 바이러스	사람 이외에 감염하는 코로나 바이러스
+알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512
+베타-코로나 바이러스(betacoronavirus)	OC43, HKU1, SARS-CoV, MERS-CoV	돼지 혈구 응집성뇌척수염 바이러스(porcine hemagglutinating encephalomyelitis virus : PHEV), 우코로나 바이러스(bovine coronavirus : BCoV), 말코로나 바이러스 (equine coronavirus : EqCoV), 쥐코로나 바이러스(murine coronavirus : MuCoV),Tylonycteris bat(박쥐) coronavirus HKU4, Pipistrellus bat(박쥐) coronavirus HKU5,Rousettus bat(박쥐) coronavirus HKU9
+감마-코로나 바이러스(gammacoronavirus)	없음	새코로나 바이러스(Avian coronavirus),흰색 돌고래(Beluga whale)-코로나 바이러스 SW1
+델타-코로나 바이러스(deltacoronavirus)	없음	제주직박구리(Bulbul)-코로나 바이러스 HKU11, 개똥지빠귀(Thrush)-코로나 바이러스 HKU12, 킨바라(Munia)-코로나 바이러스 HKU13
+* 포유류, 조류 등 광범위 동물 감염(개, 고양이, 소, 돼지, 말, 닭, 쥐, 박쥐, 돌고래 등)
+
+* 박쥐 CoV는 알파 CoV 또는 베타 CoV에 속함
+
+코로나바이러스감염증-19(COVID-19) 정보
+병원체	
+Severe Acute Respiratory Syndrome-Coronavirus-2(SARS-CoV-2)
+Coronaviridae family, Betacoronavirus genus Sarbecovirus subgenus에 속함
+전파 경로	
+주된 전파경로는 감염자의 호흡기 침방울(비말)에 의한 전파
+사람 간에 전파되며, 대부분의 감염은 감염자가 기침, 재채기, 말하기, 노래 등을할 때 발생한 호흡기 침방울(비말)을다른사람이 밀접접촉(주로 2m 이내)하여 발생
+현재까지 연구결과에 의하면, 비말 이외, 표면접촉*, 공기 등을 통해서도 전파가 가능하나, 공기전파는 의료기관의에어로졸 생성 시술**, 밀폐된공간에서 장시간 호흡기 비말을 만드는환경***등 특정 환경에서 제한적으로 전파되는 것으로 알려짐
+* 감염된 사람과의 직접 접촉(악수 등) 또는 매개체(오염된 물품이나 표면)를 만진 후, 손을 씻기 전 눈, 코, 입 등을 만짐으로 바이러스 전파
+
+** 에어로졸 생성 시술: 기관지 내시경 검사, 객담 유도, 기관삽관, 심폐소생술, 개방된 객담 흡입, 흡입기 등
+
+*** 환기가 부적절하게 이루어진 노래방, 커피숍, 주점, 실내 운동시설 등에서 감염자와 같이있거나 감염자가 떠난 즉시 그 밀폐공간을 방문한 경우
+
+잠복기	
+1~14일(평균 5~7일)
+진단 기준	
+환자 : 임상양상에 관계없이 진단을 위한 검사기준에 따라 코로나19 감염이 확인된 자
+진단을 위한 검사 기준
+코로나19 유전자(PCR) 검출
+바이러스 분리
+증상	
+주요증상 및 징후
+- 임상 증상은 무증상, 경증, 중등증, 중증까지 다양
+- 주요 증상으로는 발열(37.5℃ 이상), 기침, 호흡곤란, 오한, 근육통, 두통, 인후통, 후각·미각소실
+- 그 외에 피로, 식욕감소, 가래, 소화기증상(오심, 구토, 설사 등), 혼돈, 어지러움, 콧물이나 코막힘, 객혈, 흉통, 결막염, 피부 증상 등이 다양하게 나타남
+
+치료	
+특이치료제는 없으며 증상에 따른 해열제, 수액공급, 진해제 등 대증치료
+호흡 곤란 시 산소를 공급하고 필요한 경우에는 기계호흡이나 체외막 산소공급 등의 처치를 시행
+산소 치료가 필요한 환자에서 렘데시비르의 효과가 일부 확인되어 우리나라를 포함한 여러 나라에서 긴급 승인이 되었거나, 긴급 승인을 준비 중임특이적인 항바이러스제 없음
+치명률	
+전세계 치명률은 지역, 인구집단연령 구조, 감염 상태 및 기타 요인에 의해 0.1~25%로 다양함
+전세계 치명률은 0.00%~1.63% (중위값 0.27%)로 보정 후 0.00~1.54%(중위값 0.23%)(Bulletin of the World Health Organization. 2021)(https://www.who.int/bulletin/volumes/99/1/20-265892/en/)
+예방	
+식약처에서 승인된 코로나19 백신(향후 업데이트 예정)
+올바른 손씻기
+기침 예절 준수
+씻지 않은 손으로 눈, 코, 입 만지지 않기
+주위 환경을 자주 소독하고 환기하기
+코로나 바이러스 분류 및 특성
+개요
+코로나 바이러스(CoV)는 사람과 다양한 동물에 감염될 수 있는 바이러스로서 유전자 크기 27~32kb의 RNA 바이러스
+분류
+코로나 바이러스과에는 4개의 속(알파, 베타, 감마, 델타)이 있음
+알파 · 베타 : 사람과 동물에게 감염
+감마 · 델타 : 동물에게 감염
+형태
+형태는 코로나 바이러스의 명명과 같이 전자현미경 관찰시 구형
+외부 spike 단백질이 특징적인 크라운형태
+사람감염 코로나 바이러스
+사람감염 코로나 바이러스는 현재까지 6종류가 알려져 있음
+감기를 일으키는 유형(229E, OC43, NL63, HKU1)
+중증폐렴을 일으킬 수 있는 유형(SARS-CoV, MERS-CoV)
+코로나 바이러스 분류표
+속(genus)	사람-코로나 바이러스	사람 이외에 감염하는 코로나 바이러스
+알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512알파-코로나 바이러스(alphacoronavirus)	229E, NL63,	돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus : PEDV), (돼지) 전염성 위장염 바이러스 (transmissible gastroenteritis virus : TGEV), 개코로나 바이러스(canine coronavirus : CCoV), 고양이 코로나 바이러스 (feline coronavirus : FCoV), Miniopterus bat(박쥐) coronavirus 1, Miniopterus bat(박쥐) coronavirus HKU8, Rhinolophus bat(박쥐) coronavirus HKU2, Scotophilus bat(박쥐) coronavirus 512
+베타-코로나 바이러스(betacoronavirus)	OC43, HKU1, SARS-CoV, MERS-CoV	돼지 혈구 응집성뇌척수염 바이러스(porcine hemagglutinating encephalomyelitis virus : PHEV), 우코로나 바이러스(bovine coronavirus : BCoV), 말코로나 바이러스 (equine coronavirus : EqCoV), 쥐코로나 바이러스(murine coronavirus : MuCoV),Tylonycteris bat(박쥐) coronavirus HKU4, Pipistrellus bat(박쥐) coronavirus HKU5,Rousettus bat(박쥐) coronavirus HKU9
+감마-코로나 바이러스(gammacoronavirus)	없음	새코로나 바이러스(Avian coronavirus),흰색 돌고래(Beluga whale)-코로나 바이러스 SW1
+델타-코로나 바이러스(deltacoronavirus)	없음	제주직박구리(Bulbul)-코로나 바이러스 HKU11, 개똥지빠귀(Thrush)-코로나 바이러스 HKU12, 킨바라(Munia)-코로나 바이러스 HKU13
+* 포유류, 조류 등 광범위 동물 감염(개, 고양이, 소, 돼지, 말, 닭, 쥐, 박쥐, 돌고래 등)
+
+* 박쥐 CoV는 알파 CoV 또는 베타 CoV에 속함
